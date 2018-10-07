@@ -1,5 +1,11 @@
 # EasyDecoderProblems
 
+Completed programs:
+	
+* Coding Ceil and Max
+* The Running Race
+* The Beta Test Initiation
+
 compile with:
 	```
 	g++ <filename>.cpp -o <filename>
@@ -20,7 +26,3 @@ inputs:
 	```
 	The Beta Test Intitiation: <double minAndroidVer> <double currAndroidVer>    
 	```  
-
-* Coding Ceil and Max
-* The Running Race
-* The Beta Test Initiation
