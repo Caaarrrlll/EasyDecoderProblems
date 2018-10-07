@@ -10,7 +10,7 @@ run instructions:
 	./<filename>
 	```
 
-inputs
+inputs:  
 	```
 	Ceil And Max: <double toCeilAndFloor>
 	```  
