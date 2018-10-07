@@ -12,9 +12,9 @@ run instructions:
 
 inputs
 	```
-	Ceil And Max: <double toCeilAndFloor>
-	The Running Race: <int Distance> <int AlexSpeed> <int RyanSpeed>
-	The Beta Test Intitiation: <double minAndroidVer> <double currAndroidVer>
+	Ceil And Max: <double toCeilAndFloor>    
+	The Running Race: <int Distance> <int AlexSpeed> <int RyanSpeed>    
+	The Beta Test Intitiation: <double minAndroidVer> <double currAndroidVer>    
 	```
 
 * Coding Ceil and Max
