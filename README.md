@@ -1,4 +1,4 @@
 # EasyDecoderProblems
 
-[*] Coding Ceil and Max
-[*] The Running Race
+* Coding Ceil and Max
+* The Running Race
