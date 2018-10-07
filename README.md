@@ -1,6 +1,6 @@
 # EasyDecoderProblems
 
-compile with: g++ <filename>.cpp -o <filename>
+compile with: <code>g++ <filename>.cpp -o <filename><code>
 
 run instructions:
 	./<filename>
