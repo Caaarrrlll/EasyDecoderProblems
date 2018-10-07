@@ -1,10 +1,13 @@
 # EasyDecoderProblems
 
+NB These programs do not contain safty checks
+
 Completed programs:
 	
 * Coding Ceil and Max
 * The Running Race
 * The Beta Test Initiation
+* Ordinal Notation
 
 compile with:
 	```
@@ -25,4 +28,7 @@ inputs:
 	```  
 	```
 	The Beta Test Intitiation: <double minAndroidVer> <double currAndroidVer>    
+	```  
+	```
+	Ordinal Notation: <int a> has to be larger than 0
 	```  
