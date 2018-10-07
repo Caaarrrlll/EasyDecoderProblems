@@ -5,6 +5,7 @@ using namespace std;
 int main(){
 	int d,x,y;
 	cin >> d >> x >> y;
+	
 	if(x == y){
 		cout << "Draw" <<endl;
 	}
@@ -14,4 +15,6 @@ int main(){
 	else{
 		cout << "Alex" <<endl;
 	}
+
+	return 0;
 }

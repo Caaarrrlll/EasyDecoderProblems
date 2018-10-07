@@ -22,4 +22,6 @@ int main(){
 	double inNum;
 	cin >> inNum;
 	cout << ceil(inNum) << " " << floor(inNum) << endl;
+	
+	return 0;
 }
