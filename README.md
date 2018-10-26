@@ -9,6 +9,7 @@ Completed programs:
 * The Beta Test Initiation
 * Ordinal Notation
 * Least Significant Bit
+* Quadriliteral
 
 compile with:
 	```
@@ -35,4 +36,7 @@ inputs:
 	```  
 	```
 	Least Significant Bit: <int noCases> <int case 1> <int case 2> ... <int case n>
+	```  
+	```
+	Quadriliteral: <int noCases> <4 ints> <newline> <4 ints> ... //for amount of cases
 	```  
